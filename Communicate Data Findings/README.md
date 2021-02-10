@@ -22,7 +22,7 @@ This dataset includes 635  columns, I will be limiting my exploration on scores,
 - Science Score
 - Mother Present
 - Father Present
-- Feel Like Outsider
+- Feel Like an Outsider
 - Feel Lonely at School
 - Feel Happy at School
  
