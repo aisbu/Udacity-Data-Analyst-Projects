@@ -54,7 +54,6 @@ Using the findings, I summarized above, I tried to highlight the following findi
 - Student who has both parents present are the most successful on average. Average scores in decreasing order: Both parents are present, only mother present, only father present, none of the parents is present.
 - Students who have felt lonelier or feel more like an outsider has lower grades. However, there is no direct correlation found with average grades and how happy they feel.
  
---
 
 
 
